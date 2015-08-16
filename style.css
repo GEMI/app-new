@@ -1,0 +1,11 @@
+/* <div id="primary" class="content main">Hello world</div> */
+
+.content {
+	WIDTH: 20em;
+	background-color: red;
+}
+
+.inner {
+	BACKGROUND-COLOR: green;
+	width: 100%;
+}
